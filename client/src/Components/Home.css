@@ -1,0 +1,17 @@
+.table-col{
+    border: 2px solid rgba(218, 165, 32, 0.721);
+    border-radius: 20px;
+}
+.header .col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid grey;
+    border-radius: 50%;
+    height: 15vh;
+}
+
+body{
+    background-color: rgba(135, 207, 235, 0.275);
+}
